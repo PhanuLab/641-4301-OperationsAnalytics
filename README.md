@@ -1,7 +1,9 @@
-# Practical_RL
+# Operations Analytics
 
-An open course on reinforcement learning in the wild.
-Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool.com/)  and maintained to be friendly to online students (both english and russian).
+This GitHub course site details a weekly course content and timeline information as well as accompanying the e-learning systems of CSS4301 Operations Research available via internal [Moodle E-Learning Science](http://www.elsci.ssru.ac.th/phanu_wa/course/view.php?id=33).
+An undergraduate course at [SSRU Computer Science](https://www.cs.sci.ssru.ac.th) with scheduled deliveries every week on Tuesday for group 001 from 8.00-12.00 hrs and for group 002 from 13.00-17.00 hrs starting from July 12, 2021 till November 4, 2021. The format of this github site is based entirely from [Practical RL]https://github.com/yandexdataschool/Practical_RL for which the full credit is attributed to. 
+
+The contents provided are maintained both in English and Thai.
 
 
 #### Manifesto:
